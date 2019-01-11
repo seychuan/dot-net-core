@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>LoadExternalController.WebAPI.Controllers</AssemblyName>
+    <RootNamespace>LoadExternalController.WebAPI.Controllers</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebAPI.Shared\WebAPI.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

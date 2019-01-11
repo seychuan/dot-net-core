@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>LoadExternalController.WebAPI.Shared</AssemblyName>
+    <RootNamespace>LoadExternalController.WebAPI.Shared</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.2.1" />
+  </ItemGroup>
+
+</Project>
